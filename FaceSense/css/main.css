@@ -246,6 +246,7 @@ header .social-info li a:hover {
 }
 #feature .feature-item .icon {
   padding-right: 22px;
+  width: 50px;
 }
 #feature .feature-item .icon i {
   color: #f48e5c;
