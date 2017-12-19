@@ -49,7 +49,7 @@ ul li {
   padding: 5px 15px;
 }
 .menu .navbar-default .navbar-nav > li > a:hover {
-  color: #f48e5c;
+  color: #23a5db;
 }
 .menu .navbar-nav {
   float: none;
@@ -91,7 +91,7 @@ header .social-info li a {
   border-right: 1px solid #dedede;
 }
 header .social-info li a:hover {
-  color: #f48e5c;
+  color: #23a5db;
 }
 #banner {
   background-size: cover;
